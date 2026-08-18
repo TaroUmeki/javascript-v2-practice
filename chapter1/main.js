@@ -29,3 +29,11 @@ for (let j = 0; j < fruits.length; j++) {
   const current = fruits[j];
   console.log(j + "番目: " + current);
 }
+
+
+// 4) 配列を1つずつ処理する様子を見る
+const fruits = ["りんご", "ばなな", "みかん"];
+for (let j = 0; j < fruits.length; j++) {
+  const current = fruits[j];
+  console.log(j + "番目: " + current);
+}
